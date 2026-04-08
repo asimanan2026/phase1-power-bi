@@ -1,0 +1,23 @@
+Day 2 Observations
+
+1. Number of Rows:
+The dataset contains 24 rows of data.
+
+2. Number of Columns:
+There are 9 columns in the dataset.
+
+3. Column Meaning:
+- Order_ID: Unique ID for each sales transaction
+- Employee_Name: Name of the employee who made the sale
+- Department: Department (Electronics, Clothing, Furniture)
+- Region: Sales location (North, South, East, West)
+- Product_Category: Type of product sold (Mobiles, Laptops, etc.)
+- Units_Sold: Number of units sold in that transaction
+- Sales_Amount: Total sales value in currency
+- Profit: Profit earned from the sale
+- Date: Date of the transaction
+
+4. One Surprising Thing:
+I noticed that each employee appears multiple times with different dates and sales values,
+which means the dataset records multiple transactions per employee. Also,
+Electronics products seem to have higher sales and profit compared to other departments.
