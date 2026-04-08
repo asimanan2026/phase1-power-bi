@@ -1,0 +1,55 @@
+=========================================
+DAY 01 TASK - DATA IN YOUR LIFE
+Phase 1: Power BI Data Literacy Challenge
+=========================================
+
+---------------------------------------------------
+5 EXAMPLES OF DATA IN MY DAILY LIFE
+---------------------------------------------------
+
+1. PHONE SCREEN TIME
+   - What data: Daily and weekly screen time in hours, broken down by app
+   - Who collects it: My phone's operating system (Android/iOS Screen Time feature)
+   - Decision it helps make: Decide which apps are wasting my time and set daily
+     limits to improve focus and productivity
+
+2. BUS / AUTO TIMINGS (LOCAL TRANSPORT IN KOZHIKODE)
+   - What data: Arrival and departure times of KSRTC buses and auto-rickshaws,
+     route frequencies, peak-hour delays
+   - Who collects it: KSRTC (Kerala State Road Transport Corporation),
+     and partly through Google Maps real-time data from commuters
+   - Decision it helps make: Choose the fastest route to college or work,
+     and decide whether to leave early or wait for a less crowded bus
+
+3. MARKS AND EXAM SCORES
+   - What data: Internal assessment marks, semester exam scores, attendance percentage
+   - Who collects it: My college/school administration and teachers
+   - Decision it helps make: Identify subjects where I need to study more,
+     predict final grades, decide which topics to focus on before exams
+
+4. RAINFALL DATA IN KOZHIKODE
+   - What data: Daily rainfall in mm, monthly totals, flood alerts
+   - Who collects it: India Meteorological Department (IMD) and Kerala State
+     Disaster Management Authority
+   - Decision it helps make: Decide whether to carry an umbrella, whether
+     schools/colleges will be closed, and whether travel is safe during
+     monsoon season
+
+5. UPI / DIGITAL PAYMENT HISTORY
+   - What data: Amount spent, merchant name, date and time, category of spend
+     (food, transport, shopping, etc.)
+   - Who collects it: My bank and UPI apps like Google Pay or PhonePe
+   - Decision it helps make: Track where my money is going each month,
+     identify unnecessary expenses, and plan a personal budget
+
+---------------------------------------------------
+MY ONE BIG DATA QUESTION
+---------------------------------------------------
+
+"Does rainfall in Kozhikode affect student attendance and exam performance —
+and if so, which months should schools plan extra classes or online backup
+sessions to make up for weather-related disruptions?"
+
+---------------------------------------------------
+END OF DAY 01 TASK
+---------------------------------------------------
