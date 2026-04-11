@@ -1,0 +1,25 @@
+Day 3 – Reflection (Data Cleaning with Power Query)
+
+What kinds of "mess" did you find in the data?
+I found several issues such as missing values (nulls), duplicate rows, inconsistent text formatting (like "kerala" and "Kerala"), extra spaces in names, and incorrect data types (like text in numeric columns).
+Why do you think real-world data is often messy?
+Real-world data is often messy because it is collected from multiple sources, entered by different people, and not always validated properly. Human errors, system differences, and lack of standardization lead to inconsistencies in the data.
+Check-in: One before/after of a data cleaning step
+
+Before Cleaning:
+Name = " Arjun "
+
+After Cleaning:
+Name = "Arjun"
+
+Fix Applied: Used the Trim function in Power Query to remove extra spaces.
+
+(Alternative Example)
+
+Before Cleaning:
+Sales = null
+
+After Cleaning:
+Sales = Quantity × Price
+
+Fix Applied: Replaced null values using conditional logic.
