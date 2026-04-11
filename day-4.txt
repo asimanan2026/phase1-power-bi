@@ -1,0 +1,41 @@
+Day 4 – Reflection (Data Shaping)
+
+1. What is the difference between cleaning and shaping data?
+   Data cleaning focuses on fixing errors such as missing values, duplicates, and incorrect data types. Data shaping focuses on transforming data into a suitable structure for analysis, such as splitting columns, filtering rows, and creating new calculated fields.
+
+2. What transformation did you find most useful?
+   I found splitting columns and adding a custom column to be most useful, as they help in better understanding and analyzing the data.
+
+3. Check-in: Walk through one transformation you did and why
+
+Transformation: Split Date Column
+
+Before:
+Date = "2024-01-05"
+
+After:
+Year = 2024
+Month = 01
+Day = 05
+
+Reason:
+This makes it easier to analyze data by month or year and helps in creating time-based visualizations like trends.
+
+1. Filter Rows:
+   Filtered the dataset to include only the Electronics department to focus analysis on a specific category.
+
+2. Split Column:
+   Split the Name column into First Name and Last Name to make the data more structured and easier to analyze.
+
+3. Custom Column:
+   Created a new column "Total" by multiplying Quantity and Price to calculate total value for each row.
+
+
+1. Filter Rows:
+   Filtered the dataset to include only the Electronics department to focus analysis on a specific category.
+
+2. Split Column:
+   Split the Name column into First Name and Last Name to make the data more structured and easier to analyze.
+
+3. Custom Column:
+   Created a new column "Total" by multiplying Quantity and Price to calculate total value for each row.
