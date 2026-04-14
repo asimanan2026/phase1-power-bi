@@ -1,0 +1,1 @@
+Using the slicer, I filtered the data by department and observed that Electronics had significantly higher sales compared to other categories. This insight was not clearly visible in the full dataset view where all categories were combined. The slicer helped isolate each category and made it easier to understand individual performance.
